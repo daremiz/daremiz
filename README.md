@@ -4,7 +4,7 @@
 
 - &#127757; <!-- Значок планеты --> currently live in Tbilisi, Georgia
 - &#x1F454; 4 years working in retail
-- &#x1F331;  <!-- Значок ростка --> Aspiring Data Scientist
+- &#x1F331;  <!-- Значок ростка --> aspiring Data Scientist
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
