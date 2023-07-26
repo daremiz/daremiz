@@ -2,7 +2,6 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h2>
 
 
-- &#127757; <!-- Значок планеты --> currently live in Tbilisi, Georgia
 - &#x1F454; 4 years working in retail
 - &#x1F331;  <!-- Значок ростка --> aspiring Data Scientist
 
