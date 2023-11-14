@@ -1,5 +1,5 @@
 <h2 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Daria</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h2>
+
 
 
 - &#x1F454; 4 years working in retail
